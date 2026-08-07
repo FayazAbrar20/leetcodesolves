@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0011-container-with-most-water) |
+| [0912-sort-an-array](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +71,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0182-duplicate-emails) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/FayazAbrar20/leetcodesolves/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
